@@ -6,7 +6,7 @@ import type {
 } from "./types";
 
 const API_KEY =
-  "ef2f40af2fca45cfabd2d82d4805a22e"; /* replace with your API key */
+  "ef2f40af2fca45cfabd2d82d4805a22e";
 
 const BASE_URL = "https://zalexinc.azure-api.net";
 
